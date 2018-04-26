@@ -1,0 +1,20 @@
+let's make a package
+--------------------
+
+REQUIREMENTS:
+	wheel,twine,tox,cookiecutter
+
+	either pip install REQUIREMENTS or use conda if you have anaconda distribution
+
+
+wheel:= allows us to make wheel format. 
+twine:= allows us to upload things to PYPI in a secure manner.
+tox  := test runner.
+cookiecutter:= is a repo fork program. it takes an input and generate the output directory of the template
+	       files.
+
+
+Make virtualenv
+---------------
+
+

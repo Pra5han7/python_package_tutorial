@@ -1,0 +1,28 @@
+		**PACKAGE COMPONENTS**
+
+package
+------- data
+|	|
+|	-----data_file
+|
+------- DESCRIPTION.rst
+|
+------- MANIFEST.in
+|
+------- README.rst
+|
+------- sample
+|	|
+|	------ __init__.py
+|	|
+|	------ package_data.dat
+|
+------- setup.cfg
+|
+------- setup.py
+|
+------- tests
+	|
+	----- __init__.py
+	|
+	----- test_simple.py
